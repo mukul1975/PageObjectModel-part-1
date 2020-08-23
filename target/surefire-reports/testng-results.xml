@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="30568" started-at="2020-05-17T11:12:51 EDT" finished-at="2020-05-17T11:13:22 EDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="30568" started-at="2020-05-17T11:12:51 EDT" finished-at="2020-05-17T11:13:22 EDT">
+      <class name="Pageom.sundayTest">
+        <test-method status="PASS" signature="rahul()[pri:0, instance:Pageom.sundayTest@5cb9f472]" name="rahul" duration-ms="11395" started-at="2020-05-17T11:13:10 EDT" finished-at="2020-05-17T11:13:22 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rahul -->
+      </class> <!-- Pageom.sundayTest -->
+      <class name="Pageom.steaveTest">
+        <test-method status="PASS" signature="parctice()[pri:0, instance:Pageom.steaveTest@6e1567f1]" name="parctice" duration-ms="19111" started-at="2020-05-17T11:12:51 EDT" finished-at="2020-05-17T11:13:10 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- parctice -->
+      </class> <!-- Pageom.steaveTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
